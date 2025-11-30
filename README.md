@@ -6,7 +6,7 @@ A Python-based Optical Character Recognition (OCR) application built with Stream
 
 ![OCR App Interface](assets/OCR%20UI.png)
 
-[Watch Demo Video](assets/OCR%20demo.mp4)
+[Download Demo Video](assets/OCR%20demo.mp4)
 
 ## Features
 
